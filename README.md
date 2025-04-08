@@ -146,6 +146,8 @@ Then you can safely delete this repository.
 ##  Contribution
 BuffaLogs is an Open Source project and was developed in order to allow enrichments from people with any level of experience, but please read carefully the [Contribution guidelines](CONTRIBUTING.md) before making any changes to the project.
 
+**Test GSoC Contribution by [Disha Pure](https://github.com/dishapure) - April 2025**
+
 ## Release
 1. If needed, update the requirements in the `requirements.txt` and also into the `setup.cfg` file
 2. Add a new entry in `CHANGELOG.md` containing all the features, changes and bugfix developed
